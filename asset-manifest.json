@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elariccc.github.io/filteredTable/static/css/main.3e158746.chunk.css",
+    "main.js": "/elariccc.github.io/filteredTable/static/js/main.b457d6e0.chunk.js",
+    "main.js.map": "/elariccc.github.io/filteredTable/static/js/main.b457d6e0.chunk.js.map",
+    "runtime-main.js": "/elariccc.github.io/filteredTable/static/js/runtime-main.f28fcacd.js",
+    "runtime-main.js.map": "/elariccc.github.io/filteredTable/static/js/runtime-main.f28fcacd.js.map",
+    "static/js/2.cf0901fe.chunk.js": "/elariccc.github.io/filteredTable/static/js/2.cf0901fe.chunk.js",
+    "static/js/2.cf0901fe.chunk.js.map": "/elariccc.github.io/filteredTable/static/js/2.cf0901fe.chunk.js.map",
+    "index.html": "/elariccc.github.io/filteredTable/index.html",
+    "static/css/main.3e158746.chunk.css.map": "/elariccc.github.io/filteredTable/static/css/main.3e158746.chunk.css.map",
+    "static/js/2.cf0901fe.chunk.js.LICENSE.txt": "/elariccc.github.io/filteredTable/static/js/2.cf0901fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28fcacd.js",
+    "static/js/2.cf0901fe.chunk.js",
+    "static/css/main.3e158746.chunk.css",
+    "static/js/main.b457d6e0.chunk.js"
+  ]
+}
