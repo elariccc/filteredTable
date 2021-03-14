@@ -1,0 +1,59 @@
+.table-container {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.table__main {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table__main tbody tr:nth-of-type(odd) {
+  background-color: antiquewhite;
+}
+
+.table__main td, .table__main th {
+  text-align: left;
+  padding: 5px;
+  width: 50%;
+}
+
+.table__main th {
+  cursor: pointer;
+  transition: background-color 0.1s ease-in;
+}
+
+.table__main th:hover {
+  background-color: beige;
+}
+
+.header--descending::after {
+  content: '▽';
+}
+
+.header--ascending::after {
+  content: '△';
+}
+
+.pages-container {
+  text-align: center;
+}
+
+.page-link {
+  display: inline-block;
+  cursor: pointer;
+  background-color: beige;
+  padding: 5px;
+  margin: 5px;
+  transition: background-color 0.2s ease-in;
+}
+
+.page-link:hover {
+  background-color: bisque;
+}
+
+.page-link--active {
+  background-color: forestgreen!important;
+}
